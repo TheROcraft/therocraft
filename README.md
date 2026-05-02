@@ -17,7 +17,7 @@
       <hr>
       <h3>🗣️ Languages</h3>
       <ul>
-        <li>🇩🇪 <b>German</b> (Native=</li>
+        <li>🇩🇪 <b>German</b> (Native)</li>
         <li>🇬🇧 <b>English</b> (Fluent)</li>
       </ul>
     </td>
